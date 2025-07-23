@@ -1,15 +1,19 @@
 # Ecommerce_Sales_Data_Analysis
 📊 E-Commerce Sales Data Analysis – Dual Perspective Project
 Welcome to a comprehensive data analysis project that explores real-world E-Commerce sales data from two powerful perspectives:
+
 👉 Seller-centric view – to analyze business performance
+
 👉 Customer-centric view – to understand buyer behavior
 
 Using Python, Pandas, Seaborn, and Matplotlib, this project dives into a CSV file containing 200+ online transaction records, uncovering hidden trends, sales patterns, revenue drivers, and customer insights.
 
 🗂️ Project Structure
+
 This repository contains two mini-projects built on the same dataset:
 
 📦 1. Seller View: Business Performance Analysis:
+
 Focuses on how products and sales perform from a business owner's perspective.
 
 🏙️ Top 5 cities contributing most to revenue
@@ -23,6 +27,7 @@ Focuses on how products and sales perform from a business owner's perspective.
 🔍 Goal: Help businesses identify what sells, when, and where—enabling better inventory, pricing, and marketing decisions.
 
 👤 2. Customer View: Behavioral & Revenue Analysis:
+
 Shifts the lens to customers—how they behave, spend, and interact.
 
 💸 Top 10 high-spending customers using RFM segmentation
@@ -40,6 +45,7 @@ Shifts the lens to customers—how they behave, spend, and interact.
 🔍 Goal: Empower businesses to optimize customer relationships, target segments, and improve user experience.
 
 🛠️ Technologies Used:
+
 🐍 Python – for scripting and logic
 
 📊 Pandas – for data manipulation and transformation
@@ -49,6 +55,7 @@ Shifts the lens to customers—how they behave, spend, and interact.
 📈 Matplotlib & Seaborn – for generating professional, clean, and insightful data visualizations
 
 📊 Key Visual Insights
+
 Here are some of the key visualizations generated from the project:
 
 📌 Seller View:
@@ -76,21 +83,26 @@ Here are some of the key visualizations generated from the project:
   <img width="1280" height="740" alt="Figure_2 6" src="https://github.com/user-attachments/assets/33e178e0-92bd-46fd-a597-966dc6b0c43d" />
 
 
-🚀 How to Run the Project
+🚀 How to Run the Project:
+
 Clone this repository
 
 git clone https://github.com/your-username/ecommerce-sales-analysis.git
+
 cd ecommerce-sales-analysis
 
 Place the dataset:
+
 Make sure Ecommerce_Sales.csv is placed in the root directory of the project.
 
 Dependencies:
+
 Ensure the following libraries are installed:
 
 pip install pandas numpy matplotlib seaborn
 
-📚 What You'll Learn
+📚 What You'll Learn:
+
 Data cleaning and preprocessing techniques
 
 Feature engineering (Total_Amount, date components, etc.)
@@ -103,7 +115,8 @@ Crafting insights through meaningful visualizations
 
 Structuring and separating multi-perspective analysis logically
 
-🧠 Ideal For
+🧠 Ideal For:
+
 📊 Beginner to intermediate data analysts and Python learners
 
 👩‍💻 Students looking for real-world project experience
