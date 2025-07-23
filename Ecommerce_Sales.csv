@@ -1,0 +1,201 @@
+Order_ID,Date,Customer_ID,Product,Category,Price,Quantity,Payment_Mode,City,State
+22171db6,2025-07-12,7c219f,All,Home Decor,4214.62,1,Credit Card,Delhi,Delhi
+e854b605,2025-07-03,2260c8,Term,Electronics,3091.32,4,UPI,Lucknow,Uttar Pradesh
+daf85412,2025-06-25,fe6ee2,Heart,Clothing,2652.03,5,Credit Card,Jaipur,Rajasthan
+0046322e,2025-01-23,256f67,Although,Beauty,389.32,1,Cash on Delivery,Lucknow,Uttar Pradesh
+586d2a6e,2025-03-21,882ca2,Sense,Home Decor,3233.7,2,Net Banking,Jaipur,Rajasthan
+70f0bd2e,2025-04-12,70c2ba,Expert,Home Decor,2836.86,4,Debit Card,Chennai,Tamil Nadu
+29217d40,2025-03-31,36d2e7,Left,Beauty,3509.43,4,Debit Card,Kolkata,West Bengal
+73bf626e,2025-04-05,9da98d,Parent,Beauty,3358.18,3,Cash on Delivery,Ahmedabad,Gujarat
+20f6781b,2025-01-13,b9702b,Production,Clothing,1029.72,2,Net Banking,Pune,Maharashtra
+2e3eebd4,2025-05-06,a55c97,Recent,Electronics,4365.6,3,Credit Card,Pune,Maharashtra
+71d4a45c,2025-03-21,5af39b,Live,Electronics,4803.76,2,Debit Card,Bangalore,Karnataka
+c6fdf049,2025-03-06,4fe36a,Stage,Home Decor,968.0,2,UPI,Hyderabad,Telangana
+794bcdca,2025-02-01,6004cf,Watch,Books,404.91,3,Credit Card,Hyderabad,Telangana
+0c17101d,2025-05-01,01122a,Citizen,Home Decor,4803.41,2,Debit Card,Mumbai,Maharashtra
+b19b3b25,2025-04-30,f0da48,Section,Home Decor,2318.56,1,Cash on Delivery,Jaipur,Rajasthan
+c6fcb76a,2025-05-26,df37b5,Also,Books,3734.18,3,Net Banking,Ahmedabad,Gujarat
+72ea4c74,2025-05-16,0cfaa3,Experience,Beauty,1572.56,1,Debit Card,Kolkata,West Bengal
+21165bd1,2025-04-21,fc18c4,White,Clothing,1160.32,3,Net Banking,Kolkata,West Bengal
+97b107b8,2025-06-26,c8a4ab,Positive,Home Decor,3089.82,5,Credit Card,Bangalore,Karnataka
+b14439db,2025-06-11,aae4ee,Physical,Home Decor,2206.07,2,UPI,Ahmedabad,Gujarat
+a3c1a78b,2025-04-22,988359,Beautiful,Clothing,2444.04,1,Debit Card,Ahmedabad,Gujarat
+71e3268f,2025-01-15,f25c06,Cultural,Electronics,3061.17,3,Cash on Delivery,Delhi,Delhi
+0ef36e01,2025-04-07,3c15b3,Defense,Electronics,3043.12,5,Net Banking,Delhi,Delhi
+9bde9e2f,2025-05-15,5f3f52,Professor,Clothing,3210.47,1,UPI,Mumbai,Maharashtra
+efe8fd09,2025-02-04,1aab9f,Within,Electronics,3580.47,1,Debit Card,Bangalore,Karnataka
+f6a9a7d4,2025-07-10,6c95fd,Response,Clothing,3026.78,4,Net Banking,Chennai,Tamil Nadu
+8ea21297,2025-04-25,0044ef,Improve,Sports,2222.66,5,Net Banking,Hyderabad,Telangana
+cc72e87b,2025-05-04,810745,Future,Books,4581.68,4,Credit Card,Mumbai,Maharashtra
+382ca5e9,2025-07-05,7ee6d9,Property,Sports,4674.05,1,Net Banking,Delhi,Delhi
+a5a7e276,2025-03-17,16e78d,Money,Home Decor,1096.4,5,Net Banking,Bangalore,Karnataka
+3c8f5c58,2025-01-30,f47d72,Feeling,Beauty,3003.75,1,Credit Card,Kolkata,West Bengal
+036e2d9c,2025-06-06,390850,Explain,Home Decor,4619.0,1,Net Banking,Bangalore,Karnataka
+41817827,2025-03-12,739c71,Western,Clothing,1741.44,4,Credit Card,Delhi,Delhi
+8033a65e,2025-04-13,0c4ee4,Bank,Beauty,2389.66,1,UPI,Lucknow,Uttar Pradesh
+df8671f3,2025-02-21,56996d,Class,Home Decor,1874.75,2,UPI,Pune,Maharashtra
+231a3be2,2025-05-06,28ed4a,Job,Home Decor,4813.8,4,Debit Card,Pune,Maharashtra
+4db72bb5,2025-04-25,b27203,Language,Home Decor,1554.27,5,UPI,Pune,Maharashtra
+8cdd5793,2025-04-22,fd32e0,Series,Books,1127.6,3,Debit Card,Jaipur,Rajasthan
+ee0ba0ec,2025-05-02,1c237c,Society,Home Decor,887.06,5,Debit Card,Jaipur,Rajasthan
+ce3a18ce,2025-05-26,3b7dd6,Improve,Beauty,4729.1,2,Debit Card,Ahmedabad,Gujarat
+ec82dc06,2025-03-14,c5ce2e,Collection,Clothing,2334.46,2,Credit Card,Bangalore,Karnataka
+db575e59,2025-02-13,3b0907,Skin,Home Decor,4352.72,1,Credit Card,Lucknow,Uttar Pradesh
+a6956e62,2025-04-24,1759a8,Before,Sports,4958.63,5,Debit Card,Mumbai,Maharashtra
+40b80647,2025-04-05,01e9b4,Whatever,Electronics,3372.1,2,Net Banking,Delhi,Delhi
+95eeaf35,2025-04-09,c5e100,What,Electronics,4064.78,1,Cash on Delivery,Lucknow,Uttar Pradesh
+d5dd3577,2025-01-31,351196,Job,Electronics,2616.85,1,Debit Card,Pune,Maharashtra
+5adb5952,2025-06-22,0e3233,Owner,Beauty,1551.24,2,Credit Card,Mumbai,Maharashtra
+e075cb96,2025-05-15,ea7abd,Short,Electronics,4130.72,1,Credit Card,Ahmedabad,Gujarat
+8927042c,2025-04-25,d112f3,Former,Beauty,2090.34,1,UPI,Lucknow,Uttar Pradesh
+8106816d,2025-02-05,434ac2,Meeting,Clothing,1152.33,1,Cash on Delivery,Ahmedabad,Gujarat
+868330cc,2025-06-02,15119f,Low,Sports,456.7,4,Debit Card,Lucknow,Uttar Pradesh
+e16eb138,2025-06-11,6b6bdf,Simply,Beauty,3464.07,5,Credit Card,Hyderabad,Telangana
+3cc14781,2025-01-19,228cca,With,Sports,3036.37,3,Credit Card,Ahmedabad,Gujarat
+4d6fa89f,2025-03-17,8f868f,Suggest,Sports,1420.01,5,Credit Card,Delhi,Delhi
+4f837ca7,2025-03-30,4c70f3,Ability,Beauty,660.67,5,Credit Card,Kolkata,West Bengal
+fee99bf4,2025-05-19,2a1a2b,Half,Beauty,4405.96,2,UPI,Hyderabad,Telangana
+68510a7e,2025-07-01,21c824,Every,Electronics,104.16,3,UPI,Hyderabad,Telangana
+d3416ff5,2025-06-08,dedd7f,Election,Books,4937.81,3,Credit Card,Hyderabad,Telangana
+1d341bf4,2025-03-14,a2b0b2,Everything,Home Decor,110.01,3,Net Banking,Ahmedabad,Gujarat
+7837fedf,2025-03-19,e462df,Activity,Clothing,2331.9,3,UPI,Delhi,Delhi
+8b2ee954,2025-04-15,3949c1,Data,Electronics,2170.36,4,Credit Card,Bangalore,Karnataka
+b8463bd1,2025-03-17,e1d0c0,Theory,Home Decor,570.15,2,Credit Card,Hyderabad,Telangana
+502c0c0d,2025-01-12,d2c17a,Like,Sports,4967.93,5,Cash on Delivery,Lucknow,Uttar Pradesh
+8b52f870,2025-06-20,3eff15,Media,Home Decor,3787.14,4,Debit Card,Lucknow,Uttar Pradesh
+960a039d,2025-05-05,9a4dac,Involve,Clothing,2186.48,1,Credit Card,Delhi,Delhi
+197ca863,2025-07-11,590d3b,Attention,Clothing,3521.53,1,Debit Card,Hyderabad,Telangana
+7de4e0a7,2025-06-07,b799d5,Pay,Home Decor,3816.63,3,Cash on Delivery,Hyderabad,Telangana
+907c8edd,2025-03-22,3cd792,Media,Electronics,4699.16,2,Credit Card,Delhi,Delhi
+10f99b3d,2025-06-19,0ec417,Space,Clothing,3262.74,2,Credit Card,Ahmedabad,Gujarat
+b398afc4,2025-02-03,b1df60,Let,Clothing,2237.21,4,Debit Card,Jaipur,Rajasthan
+a95f688e,2025-06-16,2a49bd,Vote,Sports,1482.87,5,Credit Card,Lucknow,Uttar Pradesh
+d1c9a68b,2025-07-06,790b4d,Wrong,Beauty,2301.89,1,Credit Card,Hyderabad,Telangana
+348954a3,2025-05-22,b66bd9,Beat,Electronics,3075.01,2,UPI,Lucknow,Uttar Pradesh
+b6d7a808,2025-03-22,f5234c,Enough,Beauty,621.97,5,UPI,Chennai,Tamil Nadu
+bd574785,2025-04-10,fa29bf,Hotel,Clothing,3472.71,3,Debit Card,Lucknow,Uttar Pradesh
+fb2bfa49,2025-05-04,f3efcb,Bring,Beauty,133.1,1,UPI,Kolkata,West Bengal
+9688fe5a,2025-04-07,58eb33,Community,Electronics,3890.17,4,Debit Card,Lucknow,Uttar Pradesh
+679a9b0d,2025-05-04,b07dc0,Perform,Electronics,4768.5,5,UPI,Kolkata,West Bengal
+c2307083,2025-06-11,ff1a26,Tree,Books,2176.19,3,Credit Card,Hyderabad,Telangana
+28d15ee3,2025-02-11,8285e3,Past,Beauty,121.0,1,Net Banking,Pune,Maharashtra
+d660f932,2025-04-06,eec07c,Send,Electronics,2916.08,1,Credit Card,Jaipur,Rajasthan
+02aadcb0,2025-04-14,56067c,Reason,Home Decor,4418.27,3,Credit Card,Hyderabad,Telangana
+828954fd,2025-03-30,3ea77d,Month,Electronics,739.92,1,Cash on Delivery,Chennai,Tamil Nadu
+ff181f3a,2025-01-24,3f57af,Coach,Electronics,1646.33,3,Cash on Delivery,Chennai,Tamil Nadu
+9f6abf6a,2025-04-13,59da88,Easy,Home Decor,3744.06,5,UPI,Bangalore,Karnataka
+8c31fbc0,2025-02-20,5394b9,Run,Sports,1913.91,2,UPI,Delhi,Delhi
+3f9f5ffd,2025-05-07,aaa8d1,Yard,Home Decor,2236.19,2,Debit Card,Pune,Maharashtra
+6a3cce7b,2025-06-09,c0ce8c,Event,Electronics,1557.43,4,Debit Card,Delhi,Delhi
+cc445731,2025-02-18,e9277c,Much,Sports,3693.21,5,Net Banking,Bangalore,Karnataka
+d6b2a3a6,2025-02-09,d29f99,Manage,Home Decor,2164.88,4,Debit Card,Jaipur,Rajasthan
+3074cd7e,2025-05-10,283989,Rise,Sports,3020.1,2,Net Banking,Kolkata,West Bengal
+b2ebcb2b,2025-02-07,d06beb,Manage,Sports,2794.12,5,UPI,Mumbai,Maharashtra
+3dcdb125,2025-05-04,318e53,Receive,Electronics,2282.08,2,UPI,Pune,Maharashtra
+49eb09d5,2025-05-26,63dee0,Him,Books,4423.94,4,Debit Card,Kolkata,West Bengal
+6ff76bfd,2025-02-04,ce456e,Never,Electronics,2091.87,3,Net Banking,Chennai,Tamil Nadu
+684c69f9,2025-04-18,9407d4,Voice,Beauty,979.76,1,Debit Card,Hyderabad,Telangana
+7e921ad7,2025-04-23,927052,Simply,Electronics,2375.91,2,Credit Card,Lucknow,Uttar Pradesh
+e7d43d2e,2025-05-27,ef6e66,Drive,Clothing,1176.57,3,Net Banking,Delhi,Delhi
+2faf41e9,2025-06-04,d6c2e7,Opportunity,Sports,488.92,2,Cash on Delivery,Pune,Maharashtra
+1d331235,2025-05-31,9996f4,Particularly,Home Decor,3175.67,1,Debit Card,Bangalore,Karnataka
+3bce68d6,2025-03-25,150c76,Drive,Books,4782.07,2,UPI,Kolkata,West Bengal
+920fe11a,2025-07-02,688a4f,Ok,Clothing,136.62,1,Debit Card,Lucknow,Uttar Pradesh
+20a22ecc,2025-06-27,91181e,Site,Books,3753.52,1,Credit Card,Pune,Maharashtra
+9e9ded0c,2025-04-14,4ff290,There,Sports,2436.66,3,Net Banking,Delhi,Delhi
+2718cf54,2025-03-15,d859a2,Field,Books,4645.47,3,Net Banking,Hyderabad,Telangana
+a6f5619d,2025-01-13,d4fc30,Chair,Books,2420.95,1,Credit Card,Hyderabad,Telangana
+7400b5e7,2025-04-12,e113ed,I,Beauty,4455.16,4,UPI,Chennai,Tamil Nadu
+0300599c,2025-06-23,7e7423,Your,Home Decor,4786.04,1,Net Banking,Pune,Maharashtra
+8be7b45e,2025-07-03,086753,Form,Books,3889.59,3,Net Banking,Chennai,Tamil Nadu
+a48d3a74,2025-05-05,867047,Red,Books,4165.15,2,Net Banking,Mumbai,Maharashtra
+d4504259,2025-03-10,903e3a,Quickly,Clothing,2778.65,2,Debit Card,Chennai,Tamil Nadu
+bfb3fa4e,2025-03-13,16f1ca,System,Home Decor,2696.4,1,Cash on Delivery,Ahmedabad,Gujarat
+674d5424,2025-03-22,5632b7,Always,Books,1481.28,2,Credit Card,Bangalore,Karnataka
+8fea1c1c,2025-03-10,8aa315,World,Home Decor,204.39,1,Net Banking,Delhi,Delhi
+2fba0569,2025-01-14,cec46d,Serious,Books,516.3,3,Cash on Delivery,Hyderabad,Telangana
+b853beea,2025-06-12,4297fd,Painting,Home Decor,980.08,5,Cash on Delivery,Kolkata,West Bengal
+ca5d3fde,2025-06-15,df668a,First,Books,4836.1,3,Debit Card,Ahmedabad,Gujarat
+7da7f3fb,2025-04-17,dbe962,According,Electronics,2385.67,1,Debit Card,Mumbai,Maharashtra
+e162e227,2025-01-14,7807ce,Work,Books,3808.72,2,Cash on Delivery,Ahmedabad,Gujarat
+d462f457,2025-04-03,d3dd86,Become,Sports,1106.48,5,Credit Card,Hyderabad,Telangana
+cad47ec0,2025-03-13,b81418,Democratic,Books,4586.1,5,Net Banking,Pune,Maharashtra
+4de4bc06,2025-01-26,ffc44f,Foreign,Books,3579.01,3,Debit Card,Jaipur,Rajasthan
+2e846135,2025-01-29,55f627,Carry,Clothing,1405.41,1,Cash on Delivery,Mumbai,Maharashtra
+7313f81a,2025-01-12,a6dd4a,Participant,Sports,2323.39,4,UPI,Bangalore,Karnataka
+1e3e1ad4,2025-03-31,6af65f,Couple,Clothing,1100.08,4,UPI,Kolkata,West Bengal
+ceb9da17,2025-04-21,5db756,Director,Electronics,523.39,3,Cash on Delivery,Pune,Maharashtra
+eb62ad73,2025-05-14,dce17b,Poor,Clothing,4080.85,3,Credit Card,Delhi,Delhi
+09c2fb40,2025-06-24,6bf767,Training,Home Decor,1199.51,4,Cash on Delivery,Pune,Maharashtra
+9fdf3c36,2025-05-15,3fc245,South,Beauty,3095.83,4,UPI,Delhi,Delhi
+44802b4c,2025-06-28,adcee3,Heart,Books,262.04,3,UPI,Lucknow,Uttar Pradesh
+9ac3e420,2025-04-22,ad6c92,Body,Home Decor,2717.58,1,Credit Card,Hyderabad,Telangana
+d5f8b006,2025-05-26,5ea776,Seek,Electronics,3578.52,3,UPI,Kolkata,West Bengal
+6b6aff24,2025-06-27,911f89,Rock,Home Decor,4541.37,2,Debit Card,Lucknow,Uttar Pradesh
+fffbf986,2025-03-16,30b689,Note,Books,634.83,2,Credit Card,Delhi,Delhi
+c1138a5c,2025-06-17,9a6cd8,Pick,Clothing,4398.25,5,Net Banking,Kolkata,West Bengal
+1b54cbdc,2025-01-13,27ef15,Wall,Sports,3475.94,4,Debit Card,Bangalore,Karnataka
+9d8fca57,2025-02-21,b8c407,This,Clothing,2345.79,5,Cash on Delivery,Jaipur,Rajasthan
+6694a65e,2025-01-20,e2d39a,Store,Home Decor,2194.37,5,Credit Card,Lucknow,Uttar Pradesh
+8fa9573f,2025-05-10,11a7fc,Behind,Sports,1390.18,2,UPI,Chennai,Tamil Nadu
+f30ccf00,2025-05-20,61a489,Pressure,Sports,1771.61,2,Credit Card,Bangalore,Karnataka
+f051dc37,2025-02-16,01c758,Enjoy,Electronics,3947.07,5,Net Banking,Mumbai,Maharashtra
+c6cb3b50,2025-05-31,dba85e,Newspaper,Books,1158.62,1,UPI,Lucknow,Uttar Pradesh
+fff42ade,2025-05-23,91a7f5,Provide,Home Decor,1260.36,3,Credit Card,Mumbai,Maharashtra
+e616342b,2025-05-25,a83646,Production,Books,3473.59,1,UPI,Kolkata,West Bengal
+38127d7c,2025-05-20,7f4600,Shake,Clothing,1163.94,5,Net Banking,Pune,Maharashtra
+acc66551,2025-06-27,63cfb4,Effect,Electronics,3763.29,3,Cash on Delivery,Hyderabad,Telangana
+aa420135,2025-03-02,e5ccc7,Free,Electronics,407.77,1,Net Banking,Bangalore,Karnataka
+8d72762d,2025-06-20,cf35ff,Wrong,Books,2454.97,1,UPI,Delhi,Delhi
+e8fa26b9,2025-06-04,4693f0,Dream,Beauty,2089.53,4,Debit Card,Hyderabad,Telangana
+4ddb8b25,2025-06-26,2f82ae,Skin,Beauty,2920.43,1,Cash on Delivery,Bangalore,Karnataka
+e2bc6529,2025-04-14,1c5875,Development,Home Decor,1568.79,1,Debit Card,Delhi,Delhi
+f0d36740,2025-06-16,4e1413,Mean,Home Decor,472.65,2,Debit Card,Mumbai,Maharashtra
+cd16f22e,2025-04-30,925048,Bad,Home Decor,559.0,4,Debit Card,Kolkata,West Bengal
+84402263,2025-01-15,c2fd02,Civil,Home Decor,2266.6,5,Cash on Delivery,Lucknow,Uttar Pradesh
+91de8b19,2025-02-24,9ed6fd,Study,Books,591.13,4,Credit Card,Kolkata,West Bengal
+03a2506d,2025-04-28,cbdd54,Prevent,Electronics,953.7,5,Cash on Delivery,Jaipur,Rajasthan
+0c936b7e,2025-04-17,aa9c02,Notice,Clothing,961.98,1,Net Banking,Lucknow,Uttar Pradesh
+42fe87a5,2025-02-13,e319c7,Assume,Books,3968.99,4,Cash on Delivery,Chennai,Tamil Nadu
+849fe07b,2025-05-11,97c2fe,Edge,Sports,4312.82,2,Credit Card,Hyderabad,Telangana
+61036507,2025-06-19,722e4f,Someone,Home Decor,3038.25,5,Net Banking,Ahmedabad,Gujarat
+a215e31a,2025-01-24,bca93c,Lawyer,Books,4926.74,1,Credit Card,Hyderabad,Telangana
+4c3b6e70,2025-04-28,cc5474,All,Clothing,2507.33,4,UPI,Pune,Maharashtra
+c9890716,2025-03-05,bba383,Cost,Clothing,2379.06,3,Net Banking,Lucknow,Uttar Pradesh
+0744300a,2025-01-26,9f5433,Night,Electronics,4511.61,4,Net Banking,Chennai,Tamil Nadu
+d26cd577,2025-03-06,d11f1c,Knowledge,Beauty,375.19,1,Cash on Delivery,Hyderabad,Telangana
+8f314c5c,2025-02-15,eb792b,Score,Beauty,575.58,4,Debit Card,Pune,Maharashtra
+8329aecd,2025-02-04,ce6eaa,Let,Beauty,3623.38,2,Debit Card,Chennai,Tamil Nadu
+6600afa1,2025-01-13,991ad8,Serious,Beauty,1106.33,4,Cash on Delivery,Kolkata,West Bengal
+2d4020e3,2025-05-02,afa84c,Manager,Electronics,214.35,3,Cash on Delivery,Delhi,Delhi
+b0c106d5,2025-04-27,ba71e1,Administration,Electronics,4559.89,3,UPI,Bangalore,Karnataka
+800f0e58,2025-06-10,37e950,Sure,Books,4901.47,1,Cash on Delivery,Pune,Maharashtra
+d382c93a,2025-04-08,9aefd8,Piece,Beauty,2749.98,4,Net Banking,Delhi,Delhi
+26cff54e,2025-03-04,3caf0f,Believe,Books,1317.16,5,Credit Card,Ahmedabad,Gujarat
+2aa2b1c5,2025-01-17,a6939c,Suggest,Home Decor,4269.59,4,UPI,Delhi,Delhi
+775931c4,2025-02-17,261daa,This,Electronics,803.68,5,Credit Card,Pune,Maharashtra
+b310b0e0,2025-05-11,c0d189,Which,Home Decor,780.75,1,Credit Card,Mumbai,Maharashtra
+2a9ff50b,2025-05-16,2b7671,Total,Books,3955.55,5,UPI,Hyderabad,Telangana
+5d68f257,2025-05-12,ed2c3d,Their,Sports,3134.08,4,UPI,Chennai,Tamil Nadu
+0313da04,2025-06-03,07651e,Figure,Clothing,3332.55,4,Credit Card,Jaipur,Rajasthan
+821d97ee,2025-07-11,ffbee8,Trial,Beauty,3884.36,2,UPI,Hyderabad,Telangana
+84d866eb,2025-04-15,ef3252,Relate,Books,1014.23,2,UPI,Delhi,Delhi
+c3f727ad,2025-03-11,7487c4,Special,Books,2080.52,2,Debit Card,Pune,Maharashtra
+d79dd6d8,2025-03-11,0c71c3,Bank,Electronics,4721.6,5,UPI,Chennai,Tamil Nadu
+89daf0bc,2025-05-01,472d2d,This,Clothing,3123.72,4,Net Banking,Mumbai,Maharashtra
+b4f2f52d,2025-01-28,923d70,Loss,Home Decor,2862.23,3,Net Banking,Jaipur,Rajasthan
+63d23803,2025-06-21,fc3a82,Great,Home Decor,1349.32,3,UPI,Jaipur,Rajasthan
+8a1db699,2025-06-10,16674c,Through,Home Decor,2737.21,1,Credit Card,Lucknow,Uttar Pradesh
+52415a5e,2025-01-17,e2d0e8,Thank,Electronics,4514.97,1,Net Banking,Lucknow,Uttar Pradesh
+3df72d43,2025-05-06,b36f6b,Truth,Home Decor,1226.48,3,Credit Card,Chennai,Tamil Nadu
+74e622dc,2025-07-08,d40cd1,Kitchen,Sports,3240.95,2,Net Banking,Mumbai,Maharashtra
+bb752e5a,2025-03-04,90ac0f,Put,Home Decor,4702.23,2,Net Banking,Hyderabad,Telangana
+375246ff,2025-05-10,cefebb,Candidate,Electronics,4148.64,4,Net Banking,Bangalore,Karnataka
+17addeea,2025-03-11,8ab94d,North,Clothing,4163.4,5,UPI,Kolkata,West Bengal
+54017d27,2025-02-28,c01ae9,Whatever,Books,4837.45,4,Net Banking,Hyderabad,Telangana
+4b5590f1,2025-06-13,5aebdd,Least,Sports,2934.73,1,UPI,Jaipur,Rajasthan
+a4aff194,2025-05-03,f8880f,Beyond,Books,192.78,4,UPI,Kolkata,West Bengal
+a3445759,2025-06-17,70494a,Former,Books,2666.5,5,Cash on Delivery,Pune,Maharashtra
+a27079ac,2025-04-15,001c57,Participant,Home Decor,1620.91,1,UPI,Hyderabad,Telangana
+220f1a3e,2025-02-14,2e3dc3,Road,Home Decor,3885.94,3,UPI,Kolkata,West Bengal
+2178cfae,2025-03-31,d8c70a,After,Books,3471.63,2,Credit Card,Ahmedabad,Gujarat
